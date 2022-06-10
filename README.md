@@ -1,5 +1,5 @@
 # DIO-desafio-github-primeiro-repositorio
-Reposutorio  criado para o deafio de 
+Repositorio  criado para o deafio DIO
 
 ## Links uteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
